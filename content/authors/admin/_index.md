@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Leon Cozzi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lead Solutions Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: VMware
+  url: "www.vmware.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have been delivering IT Infrastructure for over two decades. My responsibilities have involved delivery and sales of technology across multiple domains. This has involved architecture, design, contractual development and negotiations. I am a regular speaker at conferences, and I am often asked to present to customers on many different technology and services concepts.
+
+I love to constantly learn, as I am passionate about technology and how it can improve our life. My other passions are sailing, running and spending time with my wife and two daughters.
+
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Cloud Architecture
+#- Enterprise Architecture
+#- Networking and Security
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: MSc Systems Integration
+#    institution: Napier University
+#    year: 1997
+#  - course: BSc in Electrical and Electronic Engineering
+#    institution: Napier University
+#    year: 1996
+#  - course: CCIE
+#    institution: Cisco
+#    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
